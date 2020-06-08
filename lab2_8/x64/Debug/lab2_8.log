@@ -1,0 +1,9 @@
+﻿  Group.cpp
+  StVector.cpp
+C:\Users\ainur\Desktop\c++\3в\cppLabs\lab2_8\StVector.h(71,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Student.cpp
+  Vector.cpp
+  main.cpp
+C:\Users\ainur\Desktop\c++\3в\cppLabs\lab2_8\StVector.h(71,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  lab2_8.vcxproj -> C:\Users\ainur\Desktop\c++\3в\cppLabs\x64\Debug\lab2_8.exe
